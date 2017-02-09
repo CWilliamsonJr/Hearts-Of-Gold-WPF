@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using Hearts_Of_Gold_WPF.Models;
 
 namespace Hearts_Of_Gold_WPF
 {
@@ -20,6 +21,7 @@ namespace Hearts_Of_Gold_WPF
     /// </summary>
     public partial class MainWindow : Window
     {
+        private Hearts_Of_Gold_Entities _context = new Hearts_Of_Gold_Entities();
         public MainWindow()
         {
             InitializeComponent();
