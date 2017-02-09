@@ -7,6 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="869.717" Width="1318.175">
     <Grid>
+        <ComboBox x:Name="comboBox" HorizontalAlignment="Left" Margin="22,31,0,0" VerticalAlignment="Top" Width="299" Height="36"/>
 
     </Grid>
 </Window>
