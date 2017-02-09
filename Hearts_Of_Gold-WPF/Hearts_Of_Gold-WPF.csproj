@@ -104,6 +104,12 @@
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <None Include="packages.config" />
+    <None Include="Properties\DataSources\Hearts_Of_Gold_WPF.Models.Donation_Categories.datasource" />
+    <None Include="Properties\DataSources\Hearts_Of_Gold_WPF.Models.Donation_Location.datasource" />
+    <None Include="Properties\DataSources\Hearts_Of_Gold_WPF.Models.Hearts_Of_Gold_Entities.datasource" />
+    <None Include="Properties\DataSources\Hearts_Of_Gold_WPF.Models.Item.datasource" />
+    <None Include="Properties\DataSources\Hearts_Of_Gold_WPF.Models.Request.datasource" />
+    <None Include="Properties\DataSources\Hearts_Of_Gold_WPF.Models.User.datasource" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
